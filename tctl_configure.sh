@@ -24,4 +24,4 @@ echo enableauth: "true"
 
 echo rssourl: https://$RSSO_FQDN 
 
-echo -e "copy above and create config file....\nDefault RSSO credentials are admin/bmcAdm1n1#"
+echo -e "copy above each output and create a config file....\nThe default RSSO credentials are admin/bmcAdm1n1#"
